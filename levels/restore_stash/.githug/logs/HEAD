@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628341138 +0000	commit (initial): Initial commit
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628341540 +0000	rebase (start): checkout HEAD
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628341540 +0000	rebase (finish): returning to refs/heads/master
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628341693 +0000	rebase (start): checkout 0dc65caf3895ab0b9e8473015995c09ee8917917
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628341693 +0000	rebase (finish): returning to refs/heads/master
+0dc65caf3895ab0b9e8473015995c09ee8917917 8afc0592e22bd56c7cf7fdaa900a3917ae97933d Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628341746 +0000	rebase (start): checkout 8afc0592e22bd56c7cf7fdaa900a3917ae97933d
+8afc0592e22bd56c7cf7fdaa900a3917ae97933d 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628341703 +0000	rebase: fast-forward
+0dc65caf3895ab0b9e8473015995c09ee8917917 f577d5b44a25dd0bcc245286b614cd309512efe8 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628342055 +0000	commit (amend): Initial commit
+f577d5b44a25dd0bcc245286b614cd309512efe8 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628342154 +0000	checkout: moving from f577d5b44a25dd0bcc245286b614cd309512efe8 to master
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628342220 +0000	checkout: moving from master to enother_branch
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628342248 +0000	checkout: moving from enother_branch to master
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628342325 +0000	reset: moving to HEAD
+0dc65caf3895ab0b9e8473015995c09ee8917917 0dc65caf3895ab0b9e8473015995c09ee8917917 Bohdan Panamarenko <panamarenkobohdan@gmail.com> 1628342497 +0000	reset: moving to HEAD

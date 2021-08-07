@@ -1,0 +1,20 @@
+Initial commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Initiator <initial@email.com>
+# Date:      Sat Aug 7 12:58:58 2021 +0000
+#
+# interactive rebase in progress; onto 8afc059
+# Last command done (1 command done):
+#    edit 0dc65ca Initial commit
+# No commands remaining.
+# You are currently editing a commit during a rebase.
+#
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   README.md
+#
